@@ -23,31 +23,6 @@ sftp-config.json
 ## Visual Studio Code
 *.vscode/
 
-# Bridgrelay install & usage
-# /cache
-# /docs/coverage
-# /docs/js
-# /docs/latex
-# /images/[0-9a-f]
-# /images/archive
-# /images/cache
-# /images/deleted
-# /images/lockdir
-# /images/temp
-# /images/thumb
-## Extension:EasyTimeline
-# /images/timeline
-## Extension:Score
-# /images/lilypond
-## Extension:TimedMediaHandler
-# /images/transcoded
-# /images/tmp
-# /maintenance/.mweval_history
-# /maintenance/.mwsql_history
-# /maintenance/dev/data
-# /LocalSettings.php
-# /includes/PlatformSettings.php
-
 # Building & testing
 npm-debug.log
 node_modules/
